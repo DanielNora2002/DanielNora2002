@@ -1,16 +1,34 @@
-## Hi there 👋
+## 👨‍💻 Hi there! I'm Daniel Nora 👋
 
-<!--
-**DanielNora2002/DanielNora2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate **Programmer** and aspiring software developer currently furthering my skills at **Tarrant County College (TCC)**. I love tackling complex problems and bringing ideas to life through clean, scalable code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Core Philosophy
+
+I strongly believe in the power of **teamwork and collaboration**. Building great software is a collective effort, and I thrive in environments where I can contribute to a shared vision, learn from others, and write **maintainable, high-quality code**.
+
+---
+
+### 🚀 Technical Expertise
+
+I specialize in **Full-Stack Web Development**, with a strong focus on backend frameworks and database performance.
+
+| Category | Key Technologies & Skills |
+| :--- | :--- |
+| **Backend & Frameworks** | **Django (Python)**, **Go (Golang)**, C++ (High Performance), REST APIs |
+| **Database** | **PostgreSQL** (Expert in relational design, querying, and optimization) |
+| **Frontend & UI** | **HTML5**, **CSS3**, Modern Web Design, Responsive Layouts |
+| **Dev Tools & Workflow** | Git/GitHub, Full-Stack Development, Problem Solving |
+
+---
+
+### 📫 Let's Connect!
+
+I'm always open to discussing new opportunities, collaborating on projects, or just chatting about the latest tech.
+
+* **[Insert Your LinkedIn Profile Link Here]**
+* **[Insert Your Portfolio/Personal Website Link Here (Optional)]**
+
+***
+***Thanks for stopping by!***

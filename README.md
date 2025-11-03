@@ -22,13 +22,4 @@ I specialize in **Full-Stack Web Development**, with a strong focus on backend f
 | **Dev Tools & Workflow** | Git/GitHub, Full-Stack Development, Problem Solving |
 
 ---
-
-### 📫 Let's Connect!
-
-I'm always open to discussing new opportunities, collaborating on projects, or just chatting about the latest tech.
-
-* **[Insert Your LinkedIn Profile Link Here]**
-* **[Insert Your Portfolio/Personal Website Link Here (Optional)]**
-
-***
 ***Thanks for stopping by!***
